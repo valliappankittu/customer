@@ -4,7 +4,7 @@ import Segment from '../src/customerLabs/segment'
 function App() {
   return (
     <Segment/>
-    // <div className="App">
+    // <div className="App"> tyasuhasijaiodas
     //   <header className="App-header">
     //     <img src={logo} className="App-logo" alt="logo" />
     //     <p>
