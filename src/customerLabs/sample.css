@@ -1,0 +1,11 @@
+
+.MuiInputBase-input {
+    border: 2px solid red !important;
+    font-size: 8px;
+}
+
+
+
+.MuiInputBase-input::placeholder{
+    font-size: 8px;
+}
